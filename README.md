@@ -1,0 +1,2 @@
+# senai-versoes
+repositório inicial.
